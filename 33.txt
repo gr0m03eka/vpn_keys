@@ -1,8 +1,1 @@
------BEGIN AGE ENCRYPTED FILE-----
-YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSBmLzRYVTlCelRyeS9VRXRG
-L2h3cTIwM1ZPRlp3M09qNVpIWjVqcXNYRFE4ClNYaEJFRGhtN2lIcncxZG1RL2dC
-Y1RTSTArMVlWak1GTHNVd1dFNzQ4YVEKLS0tIE9wQWJ1QjNsV3dOVXN0U0w3VDdz
-STZ3d1JaZHpaSStQeW1sRWo2VUI5czgKB4nH8IoxjDj9ilDG7/DpbZFivzuZM2vZ
-QNn9MV7zWm+u2Z/Zm8qeHY89oYEs2fbiqsPUtBZ7QxPkJcBVmugBLzw3Im7FA0h/
-c0SrwW0HdgoYhuF5x6pysQRE307PcVLj7K5C2A==
------END AGE ENCRYPTED FILE-----
+vless://84487d8d-decc-4db9-bc37-b5a47197fcd5@files.mintydavia.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PapD7f8o7VlKPgndwwn97nW_aI91h0XNw7LR5Lo9f0g&security=reality&sid=e22713a04f63&sni=www.microsoft.com&type=tcp#182%20%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9%20%D0%9A%D1%80%D0%B8%D0%BC%D0%B5%D1%80
